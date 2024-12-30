@@ -47,4 +47,4 @@
 - HD Insight Cluster
 
 # Solution Architecture Overview
-
+![Solution_architecture](https://github.com/user-attachments/assets/600a3a49-b863-4168-8a5b-baa2979897d1)
